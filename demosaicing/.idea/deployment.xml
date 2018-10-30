@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="sftp://azharkov@CUDA3:22/home/azharkov/anaconda2/envs/python3.6/bin/python" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="azharkov@CUDA3:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sftp://azharkov@CUDA3:22/home/azharkov/anaconda2/envs/python3.6/bin/python">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/azharkov/projects/demosaicing" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
